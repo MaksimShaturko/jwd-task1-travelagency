@@ -1,0 +1,13 @@
+Diving
+Fly
+Bus
+Minibus
+Sea
+Own car
+4
+24
+RO
+BB
+HB
+FB
+AI
